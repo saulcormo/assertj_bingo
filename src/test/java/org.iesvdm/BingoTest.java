@@ -71,7 +71,7 @@ public class BingoTest {
             }
             assertThat(contFilas).isEqualTo(4);
         }
-
+//
 
     }
 
